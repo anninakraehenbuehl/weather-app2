@@ -1,0 +1,45 @@
+h1 {
+  color: #fffff;
+}
+
+#temperature-description {
+  text-transform: capitalize;
+}
+.form-control {
+  width: 200px;
+  display: inline;
+}
+
+.temperature {
+  font-size: 50px;
+}
+
+.units {
+  position: relative;
+  top: -24px;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.mb-3 {
+  padding-top: 20px;
+  width: 300px;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
